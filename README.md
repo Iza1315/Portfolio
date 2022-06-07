@@ -53,10 +53,6 @@ My names is Iza Romanik. I am master of Administration. I graduated University o
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
 * ISTQB - egzaminy, pytania, testy
 
-## Articles
-
-[Article about creating portfolio in GitHub](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
-
 ## My Test Documentation
 * in progress
 ## My Projects
