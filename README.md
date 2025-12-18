@@ -1,59 +1,48 @@
-# Portfolio
+# Hi there, I'm Iza! 👋
 
-## About me
-My names is Iza Romanik. I am master of Administration. I graduated University of Warmia and Mazury in Olsztyn. I interest in software testing. My goal is to develop testing knowlage and technical skills. Currently, I deal in the customerservice. I am really opened to new challenges and opportunities. Ilike to learn new things. My assetsare diligence, honesty and accuracy in assigned duties. On this site I would like to share my all gained experience from personal learning.
+### **Quality Analyst | Junior Data Analyst in the making**
 
-## Tools
-* Jira
-* Trello
-* Confluence
-* Postman
-* TestLink
-* Colorzilla
-* Picpick
-* ShareX
+I am a detail-oriented professional with a strong background in **Quality Assurance** and process optimization at Transcom. Currently, I am leveraging my experience in quality metrics and professional certifications from **IBM** to transition into a **Data Analyst** role. 
 
-## Tech skills
-* REST API 
-* PostgreSQL
-* MySQL
-* Git 
+I focus on turning raw data into actionable insights to improve business processes and performance.
 
-## Courses
-* Jira Service Management Fundamentals - Atlassian
-* Jira Fundamentals Badge- Atlassian
-* Confluence Fundamentals Badge- Atlassian
-* MySQL tworzenie i zarządzanie bazami danych-Udemy
-* Testowanie produktów cyfrowych (testowanieoprogramowania) -Udemy
-* SQL dla początkujących-PostgreSQL -Udemy
-* Praktyczny kurs testowania oprogramowania-Udemy
-* Wprowadzenie do Git i GitHub-Udemy
-* Postman od podstaw - testowanie REST API- Udemy
-* Kurs Tworzenia Stron WWW w HTML i CSS od Podstaw do Eksperta- w trakcie
+---
 
-## Webinars
+### 🛠️ **Technical Stack**
 
-* Testowanie manualne aplikacji- warsztaty
+* **Data Analysis:** Microsoft Excel, Looker Studio, IBM Data Analyst Suite (In Progress).
+* **Databases:** SQL (PostgreSQL, MySQL).
+* **Business Tools:** Jira & Confluence, Jira Service Management.
+* **Other:** REST API Testing (Postman), AI for Business.
 
-## Books
+---
 
-* A.Roman, L.Stapp Certyfikowamy tester ISTQB poziom podstawowy
+### 🎓 **Key Certifications**
 
-## Groups on Facebook
+* **Data Analytics:**
+    * **IBM Data Analyst Professional Certificate** (In Progress: *Excel Basics, Intro to Data Analytics, What is Data Science*)
+    * ***What is Data Science?** - IBM
+    * **AI in Business Development** – Google
+* **SQL & IT Fundamentals:**
+    * **MySQL & PostgreSQL Database Management** – Udemy
+    * **Jira & Confluence Fundamentals** – Atlassian
+    * **Software Testing & API Testing** – Udemy
 
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
-* Cherry-IT: Zostań Testerem - PROJEKT
-* Zdobywamy pierwszą pracę w IT
-* Bazy danych i SQL dla początkujących
-* Junior IT, dobry start, początkujący programista, tester i nie tylko
-* HTML, CSS i JS: pierwsze kroki
-* Początki Programowania: HTML, CSS, JavaSript, PHP, SQL - Pomoc i Porady
-* Praca / Staż w IT
-* Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
-* ISTQB - egzaminy, pytania, testy
+---
 
-## My Test Documentation
-* in progress
-## My Projects
-* in progress
+### 🚀 **Projects**
+
+* 📊 **Ski Jumping Data Analysis** (Coming Soon)
+    * A comprehensive analysis of FIS World Cup data. Focus on weather impact and performance trends using **Excel & Power Query**.
+* 🔍 **Quality Metrics Analysis**
+    * Leveraging my experience in QA to identify process bottlenecks and efficiency trends.
+
+---
+
+### 📫 **Connect with me**
+
+* **LinkedIn:** [www.linkedin.com/in/iza-romanik]
+* **Email:** [iza.romanik@wp.pl]
+
+---
+*“Data is the new oil, but quality is the engine.”*
