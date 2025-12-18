@@ -2,9 +2,9 @@
 
 ### **Quality Analyst | Junior Data Analyst in the making**
 
-I am a detail-oriented professional with a strong background in **Quality Assurance** and process optimization at Transcom. Currently, I am leveraging my experience in quality metrics and professional certifications from **IBM** to transition into a **Data Analyst** role. 
+I am a detail-oriented professional with a strong background in **Quality Assurance** and process optimization. Currently, I am leveraging my experience from Transcom and professional certifications from **IBM** to transition into a **Data Analyst** role. 
 
-I focus on turning raw data into actionable insights to improve business processes and performance.
+My goal is to combine a "quality-first" mindset with data-driven insights to help businesses identify trends and improve performance.
 
 ---
 
@@ -12,7 +12,7 @@ I focus on turning raw data into actionable insights to improve business process
 
 * **Data Analysis:** Microsoft Excel, Looker Studio, IBM Data Analyst Suite (In Progress).
 * **Databases:** SQL (PostgreSQL, MySQL).
-* **Business Tools:** Jira & Confluence, Jira Service Management.
+* **Business Tools:** Jira & Confluence.
 * **Other:** REST API Testing (Postman), AI for Business.
 
 ---
@@ -20,8 +20,8 @@ I focus on turning raw data into actionable insights to improve business process
 ### 🎓 **Key Certifications**
 
 * **Data Analytics:**
-    * **IBM Data Analyst Professional Certificate** (In Progress: *Excel Basics, Intro to Data Analytics, What is Data Science*)
-    * ***What is Data Science?** - IBM
+    * **IBM Data Analyst Professional Certificate** (In Progress: *Excel Basics, Intro to Data Analytics*)
+    * ***What is Data Science?**** - IBM
     * **AI in Business Development** – Google
 * **SQL & IT Fundamentals:**
     * **MySQL & PostgreSQL Database Management** – Udemy
@@ -32,10 +32,17 @@ I focus on turning raw data into actionable insights to improve business process
 
 ### 🚀 **Projects**
 
-* 📊 **Ski Jumping Data Analysis** (Coming Soon)
-    * A comprehensive analysis of FIS World Cup data. Focus on weather impact and performance trends using **Excel & Power Query**.
-* 🔍 **Quality Metrics Analysis**
-    * Leveraging my experience in QA to identify process bottlenecks and efficiency trends.
+* 📊 **Ski Jumping Data Analysis** (In Progress)
+    * Analyzing FIS World Cup data to find correlations between weather conditions and athlete performance using **Excel & Power Query**.
+
+---
+
+### 💼 **Work Experience**
+
+**Quality Analyst @ Transcom**
+* Analyzing quality metrics and operational KPIs using **Looker Studio** and **Excel**.
+* Monitoring process efficiency and identifying trends to support operational excellence.
+* Managing documentation and workflows in **Jira** and **Confluence**.
 
 ---
 
@@ -43,6 +50,3 @@ I focus on turning raw data into actionable insights to improve business process
 
 * **LinkedIn:** [www.linkedin.com/in/iza-romanik]
 * **Email:** [iza.romanik@wp.pl]
-
----
-*“Data is the new oil, but quality is the engine.”*
