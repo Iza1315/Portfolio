@@ -20,7 +20,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 ### 🎓 **Key Certifications**
 
 * **Data Analytics:**
-    * **IBM Data Analyst Professional Certificate** (In Progress: *Excel Basics, Intro to Data Analytics*)
+    * **IBM Data Analyst Professional Certificate** (In Progress: *Introduction to Data Analytics, Excel Basics for Data Analysis, Data Visualization and Dashboards with Excel and Cognos*)
     * ***What is Data Science?**** - IBM
     * **AI in Business Development** – Google
 * **SQL & IT Fundamentals:**
@@ -33,6 +33,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 
 * 📊 **Ski Jumping Data Analysis** (In Progress)
     * Analyzing FIS World Cup data to find correlations between weather conditions and athlete performance using **Excel & Power Query**.
+    * 
 ---
 
 ### 💼 **Work Experience**
