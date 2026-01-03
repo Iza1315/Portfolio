@@ -48,4 +48,4 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 ### 📫 **Connect with me**
 
 * **LinkedIn:** [www.linkedin.com/in/iza-romanik]
-* **Email:** [iza.romanik@wp.pl]
+* **Email:** [iza.romanik.da@gmail.com]
