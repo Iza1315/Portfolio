@@ -33,7 +33,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 
 * 📊 **Ski Jumping Data Analysis** (In Progress)
     * Analyzing FIS World Cup data to find correlations between weather conditions and athlete performance using **Excel & Power Query**.
-    * Analyzing FIS
+    * Analyzing FIS Wordl Cup data to find correlations about Kamil Stoch carriers. 
 ---
 
 ### 💼 **Work Experience**
