@@ -20,7 +20,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 ### 🎓 **Key Certifications**
 
 * **Data Analytics:**
-    * **IBM Data Analyst Professional Certificate** (In Progress: *Introduction to Data Analytics, Excel Basics for Data Analysis, Data Visualization and Dashboards with Excel and Cognos, Python for Data Science, AI & Development, Python Project for Data Science*)
+    * **IBM Data Analyst Professional Certificate** (In Progress: *Introduction to Data Analytics, Excel Basics for Data Analysis, Data Visualization and Dashboards with Excel and Cognos, Python for Data Science, AI & Development, Python Project for Data Science *)
     * ***What is Data Science?**** - IBM
     * **AI in Business Development** – Google
 * **SQL & IT Fundamentals:**
