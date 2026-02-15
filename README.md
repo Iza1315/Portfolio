@@ -13,7 +13,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
 * **Data Analysis:** Microsoft Excel, Looker Studio, Python IBM Data Analyst Suite (In Progress).
 * **Databases:** SQL (PostgreSQL, MySQL).
 * **Business Tools:** Jira & Confluence.
-* **Other:** REST API Testing (Postman), AI for Business.
+* **Other:** AI for Business.
 
 ---
 
