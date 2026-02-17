@@ -27,6 +27,7 @@ My goal is to combine a "quality-first" mindset with data-driven insights to hel
     * **MySQL & PostgreSQL Database Management** – Udemy
     * **Jira & Confluence Fundamentals** – Atlassian
     * **Software Testing & API Testing** – Udemy
+    * 
 
 ---
 ### 🚀 **Projects**
